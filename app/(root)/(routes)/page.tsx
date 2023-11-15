@@ -2,7 +2,7 @@ import React from 'react'
 
 const RootPage = () => {
   return (
-    <div>RootPage </div>
+    <div>RootPage</div>
   )
 }
 
